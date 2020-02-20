@@ -1,2 +1,2 @@
-# workshop-pp-incident-alarm-helper-dhaval-sandeep
-Module for alarm incidents
+# Alarm incidents helper
+Module for fetching alarm incidents
